@@ -36,4 +36,4 @@ install.packages('stringr',      repos = 'http://cran.us.r-project.org')
 
 ## Question
 
-If any questions on the repo, feel free to contact [Elsa](https://elsab.github.io/).
+If any question on the repo, feel free to contact [Elsa](https://elsab.github.io/).
