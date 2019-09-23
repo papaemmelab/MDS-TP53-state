@@ -9,27 +9,17 @@ Each row is a patient and each column a descriptor.
 
 Details about descriptor are as follows:
 
-  :memo: LEUKID the unique ID of each patient/sample
-
-  :memo: SEX, AGE demographics
-
-  :memo: Mds type
-
-  :memo: WHO 2016 classification
-
-  :memo: Blood counts and Blast counts
-
-  :memo: Cytogenetics
-
-  :memo: NGS derived deletions, gains and regions copy-neutral loss of heterozygosity
-
-  :memo: Annotation of complex karyotype
-
-  :memo: Status of chr.17 at the TP53 locus
-
-  :memo: Treatment status regarding HMA, Lenalidomid, HSCT
-
-  :memo: overall survival and AML transformation information
+	* LEUKID the unique ID of each patient/sample
+	* SEX, AGE demographics
+	* Mds type
+	* WHO 2016 classification
+	* Blood counts and Blast counts
+	* Cytogenetics
+	* NGS derived deletions, gains and regions copy-neutral loss of heterozygosity
+	* Annotation of complex karyotype
+	* Status of chr.17 at the TP53 locus
+	* Treatment status regarding HMA, Lenalidomid, HSCT
+	* overall survival and AML transformation information
 
 
 * :clipboard: **`dd_matrix_binary_cyto.tsv`**: binary matrix of chromosomal alterations per patient from the integration of conventional cytogenetics and NGS-derived copy-number analysis. The file is a tab seperated text file.
