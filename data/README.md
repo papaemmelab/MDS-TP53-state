@@ -42,3 +42,9 @@ Details about mutation fields  are as follows:
 	* EFFECT classification of mutation consequence, ie missense nonsense frameshift ...
 	* VAF variant allele frequency 
 
+
+
+In addition, we also provide here the SNP included in the custom capture bait design:
+
+
+* :dart: **`snps_on_bait_design.txt`**: SNP included in the bait design of the study with hg19 genomic position.
