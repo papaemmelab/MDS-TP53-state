@@ -5,11 +5,11 @@ Bernard E, Nannya Y, Hasserjian P.H, et al., submitted.
 
 ## Repository Structure
 
-- **`data/`**: the folder contains the clinical and molecular dataframes necessary to reproduce all results of the paper. See the [README](./data/README.md)in the **`data/`** folder for details about data structure.
+- **`data/`**: the folder contains the clinical and molecular dataframes necessary to reproduce all results of the paper. See the [README](./data/README.md) in the **`data/`** folder for details about data structure.
 
 - [MDS-TP53-state.ipynb](./MDS-TP53-state.ipynb): the jupyter notebook with R code to reproduce results and figures.
 
-- [MDS-TP53-state.html](./MDS-TP53-state.html):an html version of the notebook that you can open in any web browser to have a look at results and figures.
+- [MDS-TP53-state.html](./MDS-TP53-state.html): an html version of the notebook that you can open in any web browser to have a look at results and figures.
 
 
 ## Working with this repository
