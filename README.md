@@ -9,7 +9,7 @@ Bernard E, Nannya Y, Hasserjian P.H, et al., submitted.
 
 - [MDS-TP53-state.ipynb](./MDS-TP53-state.ipynb): the jupyter notebook with R code to reproduce results and figures.
 
-- [MDS-TP53-state.html](./MDS-TP53-state.html): an html version of the notebook that you can open in any web browser to have a look at results and figures.
+- [MDS-TP53-state.html](./MDS-TP53-state.html): an html version of the notebook that you can open in any web browser to look at codes, results and figures.
 
 
 ## Working with this repository
@@ -32,3 +32,8 @@ install.packages('survminer',    repos = 'http://cran.us.r-project.org')
 install.packages('cmprsk',       repos = 'http://cran.us.r-project.org')
 install.packages('stringr',      repos = 'http://cran.us.r-project.org')
 ```
+
+
+## Question
+
+If any questions on the repo, feel free to contact [Elsa](https://elsab.github.io/).
