@@ -3,7 +3,7 @@
 
 ## Structure
 
-* **`dd_clinical_cyto_chr17.tsv`**: clinical dataframe in tab seperated text format.
+* :page_with_curl: **`dd_clinical_cyto_chr17.tsv`**: clinical dataframe in tab seperated text format.
 
 Each row is a patient and each column a descriptor.
 
@@ -21,12 +21,12 @@ Details about descriptor are as follows:
 	* Treatment status regarding HMA, Lenalidomid, HSCT
 	* overall survival and AML transformation information
 
-* **`dd_matrix_binary_cyto.tsv`**: binary matrix of chromosomal alterations per patient from the integration of conventional cytogenetics and NGS-derived copy-number analysis. The file is a tab seperated text file.
+* :clipboard: **`dd_matrix_binary_cyto.tsv`**: binary matrix of chromosomal alterations per patient from the integration of conventional cytogenetics and NGS-derived copy-number analysis. The file is a tab seperated text file.
 
 Each row is a patient and each column a given chromosomal alteration, eg. del5q, del7 ....
 Each entry is binary.
 
-* **`dd_matrix_binary_cyto.tsv`**: TP53 mutation file.
+* :bar_chart: **`dd_matrix_binary_cyto.tsv`**: TP53 mutation file.
 
 Each row corresponds to a given mutation in a given patient.
 
