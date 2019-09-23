@@ -12,7 +12,7 @@ Bernard E, Nannya Y, Hasserjian P.H, et al., submitted.
 - [MDS-TP53-state.html](./MDS-TP53-state.html): an html version of the notebook that you can open in any web browser to look at codes, results and figures.
 
 
-## Working with this repository
+## :rocket: Getting started with this repository
 
 ### Clone the repository
 
@@ -34,6 +34,6 @@ install.packages('stringr',      repos = 'http://cran.us.r-project.org')
 ```
 
 
-## Question
+## :question: Question
 
 If any question on the repo, feel free to contact [Elsa](https://elsab.github.io/).
