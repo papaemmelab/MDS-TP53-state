@@ -26,6 +26,7 @@ $ git clone https://github.com/papaemmelab/MDS-TP53-state
 ```R
 # run in an R console
 install.packages('ggplot2',      repos = 'http://cran.us.r-project.org')
+install.packages('reshape2',      repos = 'http://cran.us.r-project.org')
 install.packages('gridExtra',    repos = 'http://cran.us.r-project.org')
 install.packages('survival',     repos = 'http://cran.us.r-project.org')
 install.packages('survminer',    repos = 'http://cran.us.r-project.org')
