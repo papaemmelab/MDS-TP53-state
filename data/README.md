@@ -15,7 +15,8 @@ Details about descriptor are as follows:
 	* WHO 2016 classification
 	* Blood counts and Blast counts
 	* Cytogenetics
-	* NGS derived deletions, gains and regions copy-neutral loss of heterozygosity
+	* IPSS-R risk category
+	* NGS derived deletions, gains and regions copy-neutral loss of heterozygosity as a list of chr. arms
 	* Annotation of complex karyotype
 	* Status of chr.17 at the TP53 locus
 	* Treatment status regarding HMA, Lenalidomid, HSCT
@@ -40,7 +41,7 @@ Details about mutation fields  are as follows:
 	* PROTEIN_CHANGE 
 	* VT variant type (substitution, indels)
 	* EFFECT classification of mutation consequence, ie missense nonsense frameshift ...
-	* VAF variant allele frequency 
+	* VAF DEPTH variant allele frequency and coverage depth
 
 
 
