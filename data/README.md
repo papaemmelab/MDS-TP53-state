@@ -44,6 +44,14 @@ Details about mutation fields  are as follows:
 	* VAF DEPTH variant allele frequency and coverage depth
 
 
+* :dancers: **`dd_comutation.tsv`**: matrix of co-mutations of TP53-mutant samples.
+
+Each row corresponds to a patient and each column to a gene.
+
+Each numbers indicate the number of driver mutations in a given gene.
+
+The unique ID can be found in the LEUKID column.
+
 
 In addition, we also provide here the SNP included in the custom capture bait design:
 
