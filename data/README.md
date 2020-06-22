@@ -28,7 +28,7 @@ Details about descriptor are as follows:
 Each row is a patient and each column a given chromosomal alteration, eg. del5q, del7 ....
 Each entry is binary.
 
-* :bar_chart: **`dd_matrix_binary_cyto.tsv`**: TP53 mutation file.
+* :bar_chart: **`maf_TP53.tsv`**: TP53 mutation file.
 
 Each row corresponds to a given mutation in a given patient.
 
