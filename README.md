@@ -1,6 +1,6 @@
 # Code accompanying *Implications of TP53 Allelic State for Genome Stability, Clinical Presentation and Outcomes in Myelodysplastic Syndromes*
 
-Bernard E, Nannya Y, Hasserjian P.H, et al.
+[Bernard E, Nannya Y, Hasserjian P.H, et al., Nature Medicine, 26, 1549-1556, 2020.](https://www.nature.com/articles/s41591-020-1008-z)
 
 
 ## :open_file_folder: Repository Structure
@@ -17,6 +17,7 @@ Bernard E, Nannya Y, Hasserjian P.H, et al.
 ### Clone the repository
 
 To clone this repository on your local computer please run:
+
 ```shell
 $ git clone https://github.com/papaemmelab/MDS-TP53-state
 ```
