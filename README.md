@@ -3,6 +3,8 @@
 [Bernard E, Nannya Y, Hasserjian P.H, et al., Nature Medicine, 26, 1549-1556, 2020.](https://www.nature.com/articles/s41591-020-1008-z)
 
 
+![](lolli.pdf)
+
 ## :open_file_folder: Repository Structure
 
 - **`data/`**: the folder contains the clinical and molecular data necessary to reproduce the results of the study. See the [README](./data/README.md) in the **`data/`** folder for details about data structure.
